@@ -1,2 +1,2 @@
 # travel-frontsite
-vue
+vue2.6 vue-x
